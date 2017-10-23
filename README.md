@@ -1,5 +1,5 @@
 # SnapNGo-Designs
-### Find current app sesigns and storyboards for Snap'N' Go here
+### Find current app designs and storyboards for Snap'N' Go here
 #### Snap 'N' Go is a research project at Wellesley College supported by the Collborative Research Experience for Undergraduates (CREU) 2017-2018 program
 ##### Collaborators: Hannah Murphy, Chloe Blazey, Christine Bassem
 ---
